@@ -1,0 +1,112 @@
+[
+    {
+        "student_id": 401,
+        "name": "Daya Shetty",
+        "department": "Mechanical Engineering",
+        "semester": 4,
+        "marks": {
+            "subject1": 82,
+            "subject2": 75,
+            "subject3": 88
+        }
+    },
+    {
+        "student_id": 402,
+        "name": "Abhijeet Baneerjee",
+        "department": "Computer Science",
+        "semester": 6,
+        "marks": {
+            "subject1": 91,
+            "subject2": 85,
+            "subject3": 89
+        }
+    },
+    {
+        "student_id": 403,
+        "name": "Fredricks Fernandes",
+        "department": "Civil Engineering",
+        "semester": 3,
+        "marks": {
+            "subject1": 62,
+            "subject2": 58,
+            "subject3": 65
+        }
+    },
+    {
+        "student_id": 404,
+        "name": "Pradyuman Singh",
+        "department": "Electrical Engineering",
+        "semester": 8,
+        "marks": {
+            "subject1": 95,
+            "subject2": 92,
+            "subject3": 98
+        }
+    },
+    {
+        "student_id": 405,
+        "name": "R. P. Salunkhe",
+        "department": "Chemical Engineering",
+        "semester": 7,
+        "marks": {
+            "subject1": 88,
+            "subject2": 90,
+            "subject3": 85
+        }
+    },
+    {
+        "student_id": 406,
+        "name": "Tarika Sharma",
+        "department": "Biotechnology Engineering",
+        "semester": 5,
+        "marks": {
+            "subject1": 85,
+            "subject2": 82,
+            "subject3": 89
+        }
+    },
+    {
+        "student_id": 407,
+        "name": "Purvi Kumar",
+        "department": "Information Technology",
+        "semester": 2,
+        "marks": {
+            "subject1": 78,
+            "subject2": 81,
+            "subject3": 76
+        }
+    },
+    {
+        "student_id": 408,
+        "name": "Nikhil Mehta",
+        "department": "Electronics Engineering",
+        "semester": 1,
+        "marks": {
+            "subject1": 68,
+            "subject2": 72,
+            "subject3": 65
+        }
+    },
+    {
+        "student_id": 409,
+        "name": "Pankaj Tripathi",
+        "department": "Aerospace Engineering",
+        "semester": 4,
+        "marks": {
+            "subject1": 55,
+            "subject2": 60,
+            "subject3": 58
+        }
+    },
+    {
+        "student_id": 410,
+        "name": "Shreya Yadav",
+        "department": "Computer Science",
+        "semester": 3,
+        "marks": {
+            "subject1": 84,
+            "subject2": 86,
+            "subject3": 82
+        }
+    }
+]
