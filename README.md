@@ -1,6 +1,6 @@
 ## A. Title
 **Student Record Management & Search System**  
-*AI/ML Laboratory | B.Tech. 5th Semester (Assignment X_01)*
+*AI/ML Laboratory | B.Tech. 5th Semester* | Arnak Patra | Roll 31
 
 ---
 
